@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">USB Print</string>
+    <string name="instructions">اطبع ملفات PDF والصور عبر كابل USB OTG مع معاينة دقيقة لكل ورقة.\n\n1. وصّل الطابعة بكابل USB OTG.\n2. اضغط \"اختيار ملف للطباعة\"، راجع المعاينة ثم اطبع.\n\nللطباعة من تطبيقات أخرى: افتح \"فتح إعدادات الطباعة\" وفعّل \"USB Print\"، ثم استعمل مشاركة / طباعة في أي تطبيق.\n\nبدون إنترنت، بدون إعلانات، بدون تتبّع.</string>
+    <string name="pick_file">اختيار ملف للطباعة</string>
+    <string name="open_settings">فتح إعدادات الطباعة</string>
+</resources>
